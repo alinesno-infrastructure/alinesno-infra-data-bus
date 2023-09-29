@@ -129,7 +129,7 @@ const productList = [
                 "hasInner": 0,
                 "linkPath": "http://alinesno-gateway.beta.linesno.com",
                 "prodStatus": "normal",
-                "name": "数据总结管理服务",
+                "name": "数据总线管理服务",
                 "id": "053b9e440df2d3a2ddfc714b206c9731"
             },
             {

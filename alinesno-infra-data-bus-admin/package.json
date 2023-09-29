@@ -1,7 +1,7 @@
 {
   "name": "alinesno-infra-data-bus-admin",
   "version": "1.0.0",
-  "description": "数据总结管理服务",
+  "description": "数据总线管理服务",
   "author": "LuoXiaoDong",
   "license": "Apache-2.0",
   "scripts": {
