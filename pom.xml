@@ -25,7 +25,7 @@
         <module>alinesno-infra-data-bus-facade</module>  <!-- 接口和引用 -->
         <module>alinesno-infra-data-bus-domain</module>  <!-- 领域服务 -->
         <module>alinesno-infra-data-bus-adapter</module> <!-- 适配层 -->
-        <module>alinesno-infra-data-bus-api</module>  <!-- 接口服务 -->
+        <module>alinesno-infra-data-bus-gateway</module>  <!-- 接口服务 -->
         <module>alinesno-infra-data-bus-client</module>  <!-- 对外引用 -->
         <module>alinesno-infra-data-bus-boot</module>  <!-- 启动服务 -->
 
